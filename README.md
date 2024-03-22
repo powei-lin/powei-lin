@@ -16,11 +16,6 @@ alt="tiny-vo" width="540" /></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
 ## My Skills
-<p align="left">
-  <img src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/240/000000/python--v1.png" alt="python" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/240/000000/opencv.png" alt="opencv" width="50" height="50"/>
-  <img src="https://img.icons8.com/fluency/240/000000/node-js.png" alt="nodejs" width="50" height="50"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,rust,opencv)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powei-lin&hide=css,scss,pug)](https://github.com/anuraghazra/github-readme-stats)
